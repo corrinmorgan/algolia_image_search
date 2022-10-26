@@ -1,0 +1,219 @@
+[
+   {
+      "item":"Shoe18",
+      "photographer":"Martin Katler",
+      "year":2019,
+      "image":"https://images.unsplash.com/photo-1562183241-b937e95585b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1065&q=80",
+      "shoe_occasion":["Casual"],
+      "shoe_type":["Sneakers"],
+      "shoe_color":["Grey"]
+      }
+]
+
+[
+   {
+      "item":"Shoe19",
+      "photographer":"Paul Gaudriault",
+      "year":2018,
+      "image":"https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=796&q=80",
+      "shoe_occasion":["Casual"],
+      "shoe_type":["Sneakers"],
+      "shoe_color":["Black"]
+      }
+]
+
+[
+   {
+      "item":"Shoe20",
+      "photographer":"USAMA AKRAM",
+      "year":2020,
+      "image":"https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80",
+      "shoe_occasion":["Casual"],
+      "shoe_type":["Sneakers"],
+      "shoe_color":["Yellow"]
+      }
+]
+
+[
+   {
+      "item":"Shoe21",
+      "photographer":"Revolt",
+      "year":2018,
+      "image":"https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "shoe_occasion":["Casual"],
+      "shoe_type":["Sneakers"],
+      "shoe_color":["Red"]
+      }
+]
+
+[
+   {
+      "item":"Shoe22",
+      "photographer":"Jakob Owens",
+      "year":2020,
+      "image":"https://images.unsplash.com/photo-1603487742131-4160ec999306?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "shoe_occasion":["Casual"],
+      "shoe_type":["Sandals"],
+      "shoe_color":["Green"]
+      }
+]
+
+[
+   {
+      "item":"Shoe23",
+      "photographer":"Sincerely Media",
+      "year":2020,
+      "image":"https://images.unsplash.com/photo-1605445175147-8d2340ea9065?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "shoe_occasion":["Casual"],
+      "shoe_type":["Sandals"],
+      "shoe_color":["Brown"]
+      }
+]
+
+[
+   {
+      "item":"Shoe24",
+      "photographer":"Victor Hernandez",
+      "year":2021,
+      "image":"https://images.unsplash.com/photo-1622920799137-86c891159e44?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80",
+      "shoe_occasion":["Casual"],
+      "shoe_type":["Sandals"],
+      "shoe_color":["Green"]
+      }
+]
+
+[
+   {
+      "item":"Shoe25",
+      "photographer":"mahabis footwear",
+      "year":2020,
+      "image":"https://images.unsplash.com/photo-1603218183500-7e1d62c3c679?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80",
+      "shoe_occasion":["Casual"],
+      "shoe_type":["Slippers"],
+      "shoe_color":["Grey", "Yellow"]
+      }
+]
+
+[
+   {
+      "item":"Shoe26",
+      "photographer":"billow926",
+      "year":2020,
+      "image":"https://images.unsplash.com/photo-1590809528991-61308dc21e75?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "shoe_occasion":["Casual"],
+      "shoe_type":["Sandals"],
+      "shoe_color":["Brown"]
+      }
+]
+
+[
+   {
+      "item":"Shoe27",
+      "photographer":"Philippe Jausions",
+      "year":2018,
+      "image":"https://images.unsplash.com/photo-1603218183500-7e1d62c3c679?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80",
+      "shoe_occasion":["Casual"],
+      "shoe_type":["Slippers"],
+      "shoe_color":["White"]
+      }
+]
+
+[
+   {
+      "item":"Shoe28",
+      "photographer":"Call Me Fred",
+      "year":2019,
+      "image":"https://images.unsplash.com/photo-1564518125914-014ebd5f0346?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "shoe_occasion":["Casual"],
+      "shoe_type":["Sneakers"],
+      "shoe_color":["Grey"]
+      }
+]
+
+[
+   {
+      "item":"Shoe29",
+      "photographer":"Natálie Malotová",
+      "year":2020,
+      "image":"https://images.unsplash.com/photo-1592742565418-b3c9e71aa2ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80",
+      "shoe_occasion":["Casual"],
+      "shoe_type":["Sandals"],
+      "shoe_color":["Green"]
+      }
+]
+
+[
+   {
+      "item":"Shoe30",
+      "photographer":"Vi Vi",
+      "year":2020,
+      "image":"https://images.unsplash.com/photo-1601946771183-2e0659c5ae69?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80",
+      "shoe_occasion":["Casual"],
+      "shoe_type":["Flipflops"],
+      "shoe_color":["Blue"]
+      }
+]
+
+[
+   {
+      "item":"Shoe31",
+      "photographer":"Pasqualino Capobianco",
+      "year":2022,
+      "image":"https://images.unsplash.com/photo-1659806481206-51eb62adda16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "shoe_occasion":["Casual"],
+      "shoe_type":["Flipflops"],
+      "shoe_color":["Brown"]
+      }
+]
+
+[
+   {
+      "item":"Shoe32",
+      "photographer":"Silvana Carlos",
+      "year":2020,
+      "image":"https://images.unsplash.com/photo-1601233216647-4fb22eb08425?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "shoe_occasion":["Casual"],
+      "shoe_type":["Flipflops"],
+      "shoe_color":["Pink"]
+      }
+]
+
+[
+   {
+      "item":"Shoe33",
+      "photographer":"Roc Sun",
+      "year":2020,
+      "image":"https://images.unsplash.com/photo-1589036069918-3734c1a04b60?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1752&q=80",
+      "shoe_occasion":["Casual"],
+      "shoe_type":["Flipflops"],
+      "shoe_color":["White", "Blue"]
+      }
+]
+
+[
+   {
+      "item":"Shoe34",
+      "photographer":"Christian Lucas",
+      "year":2021,
+      "image":"https://images.unsplash.com/photo-1628253747716-0c4f5c90fdda?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "shoe_occasion":["Casual"],
+      "shoe_type":["Sneakers"],
+      "shoe_color":["Yellow"]
+      }
+]
+
+[
+   {
+      "item":"Shoe35",
+      "photographer":"Photos by Lanty",
+      "year":2018,
+      "image":"https://images.unsplash.com/photo-1519225145634-74cad8193788?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "shoe_occasion":["Fancy"],
+      "shoe_type":["Slingback", "Heels"],
+      "shoe_color":["Yellow"]
+      }
+]
+
+
+
+

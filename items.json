@@ -1,0 +1,315 @@
+[
+    {
+       "item":"Shoe1",
+       "photographer":"Mohammad Metri",
+       "year":2018,
+       "image":"https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+          "shoe_occasion":["Fancy"],
+          "shoe_type":[
+            "Fancy > Heels",
+            "Fancy > Pumps",
+            "Fancy > Stiletto"],
+          "shoe_color": [
+            "Fancy > Heels > Blue",
+            "Fancy > Pumps > Blue",
+            "Fancy > Stiletto > Blue",
+            "Fancy > Heels > Floral",
+            "Fancy > Pumps > Floral",
+            "Fancy > Stiletto > Floral"]
+    },
+
+    {
+      
+    "item":"Shoe2",
+    "photographer":"Emily Pottiger",
+    "year":2018,
+    "image":"https://images.unsplash.com/photo-1535043934128-cf0b28d52f95?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "shoe_occasion":["Fancy"],
+        "shoe_type":[
+            "Fancy > Heels",
+            "Fancy > Pumps",
+            "Fancy > Stiletto"
+        ],
+        "shoe_color":[
+            "Fancy > Heels > Beige",
+            "Fancy > Pumps > Beige",
+            "Fancy > Stiletto > Beige",
+            "Fancy > Heels > Taupe",
+            "Fancy > Pumps > Taupe",
+            "Fancy > Stiletto > Taupe",
+            "Fancy > Heels > Neutral",
+            "Fancy > Pumps > Neutral",
+            "Fancy > Stiletto > Neutral"
+        ]
+    },
+
+    {
+        "item":"Shoe3",
+        "photographer":"Chitto Cancio",
+        "year":2020,
+        "image":"https://images.unsplash.com/photo-1590099033615-be195f8d575c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+            "shoe_occasion":["Fancy"],
+            "shoe_type":[
+                "Fancy > Heels",
+                "Fancy > Sandals"
+            ],
+            "shoe_color":[
+                "Fancy > Heels > Beige",
+                "Fancy > Sandals > Beige",
+                "Fancy > Heels > Taupe",
+                "Fancy > Sandals > Taupe",
+                "Fancy > Heels > Neutral",
+                "Fancy > Sandals > Neutral"
+            ]
+    },
+
+    {
+        "item":"Shoe4",
+        "photographer":"mostafa mahmoudi",
+        "year":2020,
+        "image":"https://images.unsplash.com/photo-1605732440685-d0654d81aa30?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            "shoe_occasion":["Fancy"],
+            "shoe_type":[
+                "Fancy > Boots"
+            ],
+            "shoe_color":[
+                "Fancy > Boots > Black"
+            ]
+    },
+
+    {
+        "item":"Shoe5",
+        "photographer":"Noah Smith",
+        "year":2020,
+        "image":"https://images.unsplash.com/photo-1608629601270-a0007becead3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            "shoe_occasion":["Fancy"],
+            "shoe_type":[
+                "Fancy > Boots"
+            ],
+            "shoe_color":[
+                "Fancy > Boots > Brown"
+            ]
+    },
+
+    {
+        "item":"Shoe6",
+        "photographer":"Alex Quezada",
+        "year":2021,
+        "image":"https://images.unsplash.com/photo-1610398752800-146f269dfcc8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "shoe_occasion":["Fancy"],
+            "shoe_type":[
+                "Fancy > Heels",
+                "Fancy > Boots"
+            ],
+            "shoe_color":[
+                "Fancy > Heels > Beige",
+                "Fancy > Boots > Beige",
+                "Fancy > Heels > Taupe",
+                "Fancy > Boots > Taupe",
+                "Fancy > Heels > Neutral",
+                "Fancy > Boots > Neutral"
+            ]
+    },
+
+    {
+        "item":"Shoe7",
+        "photographer":"Lexie Barnhorn",
+        "year":2018,
+        "image":"https://images.unsplash.com/photo-1519707248995-fc3d4b7c52d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1465&q=80",
+            "shoe_occasion":["Fancy"],
+            "shoe_type":[
+                "Fancy > Heels",
+                "Fancy > Platforms",
+                "Fancy > Peeptoe"
+            ],
+            "shoe_color":[
+                "Fancy > Heels > Yellow",
+                "Fancy > Platforms > Yellow",
+                "Fancy > Peeptoe > Yellow"
+            ]
+    },
+
+    {
+        "item":"Shoe8",
+        "photographer":"Sarah Jickling",
+        "year":2020,
+        "image":"https://images.unsplash.com/photo-1598922880398-0ca6966e937e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "shoe_occasion":["Fancy"],
+            "shoe_type":[
+                "Fancy > Heels",
+                "Fancy > Platforms",
+                "Fancy > Pumps",
+                "Fancy > Stiletto"
+            ],
+            "shoe_color":[
+                "Fancy > Heels > Blue",
+                "Fancy > Platforms > Blue",
+                "Fancy > Pumps > Blue",
+                "Fancy > Stiletto > Blue",
+                "Fancy > Heels > Teal",
+                "Fancy > Platforms > Teal",
+                "Fancy > Pumps > Teal",
+                "Fancy > Stiletto > Teal"
+            ]
+    },
+
+    {
+        "item":"Shoe9",
+        "photographer":"No Revisions",
+        "year":2020,
+        "image":"https://images.unsplash.com/photo-1584473456267-a132b72d2d09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "shoe_occasion":["Fancy"],
+            "shoe_type":[
+                "Fancy > Heels",
+                "Fancy > Pumps"
+            ],
+            "shoe_color":[
+                "Fancy > Heels > Blue",
+                "Fancy > Pumps > Blue"
+            ]
+    },
+
+    {
+        "item":"Shoe10",
+        "photographer":"Simona Todorova",
+        "year":2019,
+        "image":"https://images.unsplash.com/photo-1573100925118-870b8efc799d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "shoe_occasion":["Fancy"],
+            "shoe_type":[
+                "Fancy > Heels",
+                "Fancy > Pumps",
+                "Fancy > Stiletto"
+            ],
+            "shoe_color":[
+                "Fancy > Heels > Pink",
+                "Fancy > Pumps > Pink",
+                "Fancy > Stiletto > Pink",
+                "Fancy > Heels > Metallic",
+                "Fancy > Pumps > Metallic",
+                "Fancy > Stiletto > Metallic"
+            ]
+    },
+
+    {
+        "item":"Shoe11",
+        "photographer":"Sladjana Karvounis",
+        "year":2017,
+        "image":"https://images.unsplash.com/photo-1512921929709-6f1ff6aca605?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            "shoe_occasion":["Fancy"],
+            "shoe_type":[
+                "Fancy > Heels",
+                "Fancy > Pumps",
+                "Fancy > Stiletto"
+            ],
+            "shoe_color":[
+                "Fancy > Heels > Pink",
+                "Fancy > Pumps > Pink",
+                "Fancy > Stiletto > Pink"
+            ]
+    },
+
+    {
+        "item":"Shoe12",
+        "photographer":"Noah Smith",
+        "year":2021,
+        "image":"https://images.unsplash.com/photo-1615979474401-8a6a344de5bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=881&q=80",
+            "shoe_occasion":["Fancy"],
+            "shoe_type":[
+                "Fancy > Loafers"
+            ],
+            "shoe_color":[
+                "Fancy > Loafers > Brown"
+            ]
+    },
+
+    {
+        "item":"Shoe13",
+        "photographer":"Mark Rabe",
+        "year":2017,
+        "image":"https://images.unsplash.com/photo-1502780696253-46844b6bed5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            "shoe_occasion":["Fancy"],
+            "shoe_type":[
+                "Fancy > Loafers"
+            ],
+            "shoe_color":[
+                "Fancy > Loafers > Black"
+            ]
+    },
+
+    {
+        "item":"Shoe14",
+        "photographer":"Bakhrom Tursunov",
+        "year":2022,
+        "image":"https://images.unsplash.com/photo-1641893843833-a006778dc00b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1446&q=80",
+            "shoe_occasion":["Fancy"],
+            "shoe_type":[
+                "Fancy > Loafers"
+            ],
+            "shoe_color":[
+                "Fancy > Loafers > Burgundy"
+            ]
+    },
+
+    {
+        "item":"Shoe15",
+        "photographer":"Ayrus Hill",
+        "year":2021,
+        "image":"https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1630&q=80",
+            "shoe_occasion":["Fancy"],
+            "shoe_type":[
+                "Fancy > Loafers"
+            ],
+            "shoe_color":[
+                "Fancy > Loafers > Brown"
+            ]
+    },
+
+    {
+        "item":"Shoe16",
+        "photographer":"Noah Smith",
+        "year":2021,
+        "image":"https://images.unsplash.com/photo-1638609348722-aa2a3a67db26?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1345&q=80",
+            "shoe_occasion":["Fancy"],
+            "shoe_type":[
+                "Fancy > Loafers",
+                "Fancy > Boots"
+            ],
+            "shoe_color":[
+                "Fancy > Loafers > Brown",
+                "Fancy > Boots > Brown"
+            ]
+    },
+
+    {
+        "item":"Shoe17",
+        "photographer":"Mona Siswanto",
+        "year":2021,
+        "image":"https://images.unsplash.com/photo-1613987876445-fcb353cd8e27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "shoe_occasion":["Fancy"],
+            "shoe_type":[
+                "Fancy > Sandals",
+                "Fancy > Heels"
+            ],
+            "shoe_color":[
+                "Fancy > Sandals > Red",
+                "Fancy > Heels > Red"
+            ]
+    },
+
+    {
+        "item":"Shoe18",
+        "photographer":"Photos by Lanty",
+        "year":2018,
+        "image":"https://images.unsplash.com/photo-1519225145634-74cad8193788?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            "shoe_occasion":["Fancy"],
+            "shoe_type":[
+                "Fancy > Slingbacks",
+                "Fancy > Heels"
+            ],
+            "shoe_color":[
+                "Fancy > Slingbacks > Yellow",
+                "Fancy > Heels > Yellow"
+            ]
+    }
+
+]
